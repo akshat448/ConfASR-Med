@@ -415,3 +415,9 @@ Structured Clinical Note
   "plan": "..."
 }
 ```
+
+## Contributors
+
+### Akshat Bakshi - 102306021
+### Aniruddha Patel - 102306086
+### Jasleen - 102316052
