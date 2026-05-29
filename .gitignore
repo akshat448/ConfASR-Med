@@ -1,0 +1,47 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environments
+venv/
+env/
+.venv/
+Pipfile.lock
+
+# Project Data (Ignore large audio and text files)
+data/raw/*
+!data/raw/README.md
+data/processed/*
+!data/processed/README.md
+
+# Model Checkpoints and Weights
+*.pt
+*.pth
+*.bin
+*.safetensors
+saved_models/
+checkpoints/
+runs/
+
+# Results and Outputs
+# Note: Comment these out if you intend to track final result JSONs/Plots
+# results/*.json
+# results/plots/*.png
+
+# Jupyter Notebook Checkpoints
+.ipynb_checkpoints
+
+# Environment Variables / Secrets
+.env
+.env.local
+
+# IDEs and Editors
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS generated files
+.DS_Store
+Thumbs.db

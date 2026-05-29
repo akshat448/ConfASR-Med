@@ -1,0 +1,23 @@
+{
+  "Assessment": {
+    "rouge1": 0.0417,
+    "rouge2": 0.007,
+    "rougeL": 0.0377,
+    "bertscore_f1": 0.8302,
+    "n_samples": 100
+  },
+  "Plan": {
+    "rouge1": 0.1091,
+    "rouge2": 0.0242,
+    "rougeL": 0.0712,
+    "bertscore_f1": 0.8291,
+    "n_samples": 100
+  },
+  "Overall": {
+    "rouge1": 0.0755,
+    "rouge2": 0.0155,
+    "rougeL": 0.0545,
+    "bertscore_f1": 0.8296,
+    "n_samples": 200
+  }
+}
